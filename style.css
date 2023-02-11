@@ -1,0 +1,72 @@
+
+body{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Inter', sans-serif;
+}
+
+
+.navClass {
+    position: relative;
+    width: 100%;
+    height: 87px;
+    margin: 0%;
+    
+
+    background: #000000;
+    overflow: hidden;
+}
+
+#CompanyName{
+    position: relative;
+    width: 180px;
+    height: 29px;
+    left: 38px;
+    top: 5px;
+    
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;    
+}
+
+.divisions{
+    margin: 3%;
+}
+
+h1{
+    
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+}
+
+.button{
+    margin-top: 3%;
+    width: 175px;
+    height: 50px;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 20px;
+    line-height: 29px;
+}
+
+#image{
+    width: 729px;
+    height: 911px;
+}
+
+.listHeading{
+    position: relative;
+    /*width: 600px;
+    height: 144px;*/
+    font-weight: 400;
+    font-size: 64px;
+    
+    color: #000000;
+}
